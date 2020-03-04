@@ -1,6 +1,7 @@
 public class Maja{
     private int a;
     private int b;
+    private double c;
 
     public int getA(){
         return a;
@@ -8,5 +9,9 @@ public class Maja{
 
     public int getB(){
         return b;
+    }
+
+    public double getC(){
+        return c;
     }
 }
