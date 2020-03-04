@@ -3,6 +3,7 @@ public class Maja{
     private int b;
     private double c;
     private int e;
+    private int d;
 
     public int getA(){
         return a;
